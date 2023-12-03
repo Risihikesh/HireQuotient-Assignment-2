@@ -65,7 +65,7 @@ const AdminDashboard = () => {
         />
       </span>
       <Button
-        label='Delete Selected'
+        label='Delete f Selected'
         icon='pi pi-trash'
         severity='danger'
         onClick={() => setDeleteMembersDialog(true)}
